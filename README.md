@@ -1,4 +1,4 @@
-# Ola pessoal 🤗,
+# Olá pessoal 🤗,
 
 Me chamo Bruno, sou desenvolvedor FullStack desde 2021 e tenho uma verdadeira paixão por programar, além de adorar compartilhar conhecimentos, experiências e estudos.
 
